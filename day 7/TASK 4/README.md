@@ -1,1 +1,1 @@
-This task is about finding restaurents distance rounded off to nearest integer km we must get data sets from kaggle websites load the datasets into sql database then we must write commands to get the output
+this task is about aggregations with retrival window functions this is about getting country name which has a max cell phones for each year we use mysql workbench to display formost we should learn about aggregations in sql
