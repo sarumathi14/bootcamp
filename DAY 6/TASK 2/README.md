@@ -1,0 +1,1 @@
+I have learned about structured data in scrap concept scrapping concepts dynamic websites the descrption is to extract columns and each rows based on commentry the output will be as a structured data ball by ball for rajasthan and gujarat the data sets can be extracted by gapminder websites
